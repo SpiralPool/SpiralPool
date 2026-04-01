@@ -17,7 +17,3 @@ Dive in, explore, and build. 🚀
 ## 🌌 Connect / Explore
 
 - [Spiral Pool Project](https://github.com/SpiralPool/Spiral-Pool) – Crypto-mining engine
-
-## 🔹 Extras
-
-![Contribution Graph](https://ghchart.rshah.org/SpiralPool)
