@@ -1,3 +1,8 @@
+# ⚡💀 WELCOME, OPERATOR 💀⚡
+
+Your node is online. Mining streams pulse through the Spiral Pool. 💾🧬  
+Dive in, explore, and build. 🚀
+
 ## 💻 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpiralPool&show_icons=true&theme=radical)
