@@ -6,13 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=%3E+mining+the+spiral...;%3E+hashing+the+void...;%3E+phi+reactor+online...)](https://github.com/SpiralPool)
 
----
-
-⫷ SYSTEM DIAGNOSTICS ⫸
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpiralPool&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00f0ff&title_color=ff006e&text_color=c9d1d9&ring_color=00f0ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpiralPool&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=ff006e&text_color=c9d1d9)
 
 ---
 
@@ -24,6 +17,11 @@
 ![Last Commit](https://img.shields.io/github/last-commit/SpiralPool/Spiral-Pool?style=for-the-badge&logo=hackthebox&color=39ff14&logoColor=39ff14&labelColor=0d1117)
 
 ---
+
+![Languages](./languages.svg)
+
+---
+
 
 ### ⫷ UPLINK PORTS ⫸
 
