@@ -20,5 +20,4 @@ Dive in, explore, and build. 🚀
 
 ## 🔹 Extras
 
-💾 Contribution Graph:
 ![Contribution Graph](https://ghchart.rshah.org/SpiralPool)
