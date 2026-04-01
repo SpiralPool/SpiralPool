@@ -1,0 +1,46 @@
+<svg width="400" height="220" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text { font-family: 'Segoe UI', sans-serif; fill: #c9d1d9; }
+    .title { font-size: 14px; font-weight: 600; fill: #ff006e; }
+    .label { font-size: 12px; }
+    .pct { font-size: 12px; fill: #8b949e; }
+  </style>
+
+  <rect width="400" height="220" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+
+  <text x="20" y="30" class="title">⫷ LANGUAGE CORES ⫸</text>
+
+  <!-- Stacked bar -->
+  <rect x="20" y="45" width="178" height="10" rx="5" fill="#00ADD8"/>
+  <rect x="198" y="45" width="94" height="10" rx="0" fill="#39ff14"/>
+  <rect x="292" y="45" width="59" height="10" rx="0" fill="#3572A5"/>
+  <rect x="351" y="45" width="19" height="10" rx="0" fill="#ff006e"/>
+  <rect x="370" y="45" width="7" height="10" rx="0" fill="#7b2d8b"/>
+  <rect x="377" y="45" width="3" height="10" rx="0" fill="#00f0ff"/>
+  <rect x="380" y="45" width="1" height="10" rx="5" fill="#8b949e"/>
+
+  <!-- Legend -->
+  <rect x="20" y="75" width="12" height="12" rx="2" fill="#00ADD8"/>
+  <text x="38" y="86" class="label">Go</text>
+  <text x="340" y="86" class="pct">49.5%</text>
+
+  <rect x="20" y="100" width="12" height="12" rx="2" fill="#39ff14"/>
+  <text x="38" y="111" class="label">Shell</text>
+  <text x="340" y="111" class="pct">26.0%</text>
+
+  <rect x="20" y="125" width="12" height="12" rx="2" fill="#3572A5"/>
+  <text x="38" y="136" class="label">Python</text>
+  <text x="340" y="136" class="pct">16.4%</text>
+
+  <rect x="20" y="150" width="12" height="12" rx="2" fill="#ff006e"/>
+  <text x="38" y="161" class="label">HTML</text>
+  <text x="340" y="161" class="pct">5.4%</text>
+
+  <rect x="20" y="175" width="12" height="12" rx="2" fill="#7b2d8b"/>
+  <text x="38" y="186" class="label">PowerShell</text>
+  <text x="340" y="186" class="pct">1.8%</text>
+
+  <rect x="20" y="200" width="12" height="12" rx="2" fill="#00f0ff"/>
+  <text x="38" y="211" class="label">CSS</text>
+  <text x="340" y="211" class="pct">0.5%</text>
+</svg>
