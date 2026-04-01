@@ -29,12 +29,6 @@
 
 ---
 
-### ⫷ CONTRIBUTION MATRIX ⫸
-
-![Contribution Graph](https://ghchart.rshah.org/00f0ff/SpiralPool)
-
----
-
 **`[ CONNECTION TERMINATED ]`**
 
 </div>
